@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi,
 
-<!--
-**utdemir/utdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Utku Demir**, a software developer from Auckland, New Zealand.
 
-Here are some ideas to get you started:
+I try to create simple and composable code, declarative and reproducible
+infrastructure, and ethical software. Functional programming is my
+preferred tool of choice, regardless of the language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a part of [SoWork](https://sowork.com/).
+
+Here are some links about me:
+
+- [**utdemir.com**](https://utdemir.com)
+- [me@utdemir.com](mailto:me@utdemir.com)
+- [**linkedin**.com/in/utdemir](https://linkedin.com/in/utdemir)
+- [**keyoxide**.org/me@utdemir.com](https://keyoxide.org/me@utdemir.com) 
