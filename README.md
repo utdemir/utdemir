@@ -13,4 +13,3 @@ Here are some links about me:
 - [**utdemir.com**](https://utdemir.com)
 - [me@utdemir.com](mailto:me@utdemir.com)
 - [**linkedin**.com/in/utdemir](https://linkedin.com/in/utdemir)
-- [**keyoxide**.org/me@utdemir.com](https://keyoxide.org/me@utdemir.com) 
