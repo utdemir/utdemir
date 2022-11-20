@@ -10,6 +10,6 @@ I'm currently a part of [SoWork](https://sowork.com/).
 
 Here are some links about me:
 
-- [**utdemir.com**](https://utdemir.com)
-- [me@utdemir.com](mailto:me@utdemir.com)
-- [**linkedin**.com/in/utdemir](https://linkedin.com/in/utdemir)
+- <a href="mailto:me@utdemir.com" rel="me">me@utdemir.com</a>
+- <a href="https://linkedin.com/in/utdemir" rel="me">**linkedin**.com/in/utdemir</a>
+- <a href="https://mastodon.nz/@utdemir" rel="me">**mastodon**.nz/@utdemir</a>
